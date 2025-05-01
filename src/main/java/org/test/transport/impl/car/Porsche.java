@@ -1,4 +1,5 @@
-package org.test;
+package org.test.transport.impl.car;
+import org.test.transport.interfaces.Car;
 
 public class Porsche implements Car{
     @Override
