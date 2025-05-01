@@ -4,8 +4,7 @@ import org.test.factory.impl.RussianFactory;
 import org.test.factory.impl.USAFactory;
 import org.test.factory.interfaces.TransportFactory;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 public class Main {
     private static TransportFactory factory;
 
